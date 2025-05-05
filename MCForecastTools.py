@@ -1,4 +1,3 @@
-pip install alpaca-trade-api
 # Import libraries and dependencies
 import numpy as np
 import pandas as pd
